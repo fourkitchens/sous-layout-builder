@@ -1,5 +1,5 @@
 {
-    "name": "fourkitchens/sous_layout_builder",
+    "name": "fourkitchens/sous-layout-builder",
     "description": "A recipe that contains modules for use with Sous layout builder.",
     "keywords": ["recipe", "Drupal recipes", "drupal recipe"],
     "type": "drupal-recipe",
