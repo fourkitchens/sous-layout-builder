@@ -13,6 +13,7 @@
     "minimum-stability": "dev",
     "require": {
       "drupal/gin_lb": "^1.0@RC",
-      "drupal/layout_builder_browser": "^1.6"
+      "drupal/layout_builder_browser": "^1.6",
+      "fourkitchens/sous-content-types": "*"  
     }
 }
